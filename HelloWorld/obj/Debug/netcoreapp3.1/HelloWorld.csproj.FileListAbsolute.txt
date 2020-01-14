@@ -9,3 +9,14 @@ C:\Users\elbra\Documents\AMIS3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.
 C:\Users\elbra\Documents\AMIS3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
 C:\Users\elbra\Documents\AMIS3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
 C:\Users\elbra\Documents\AMIS3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\elbra\Documents\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
